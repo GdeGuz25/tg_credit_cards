@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/GdeGuz25/tg_credit_cards/refs/heads/main/2025-07-07_16-07-47.png))
+![image](https://raw.githubusercontent.com/GdeGuz25/tg_credit_cards/refs/heads/main/tg_credit_cards-main/bot_card.png)
 
-После выбора карты Visa:
+После выбора карты Mastercard  или Maestro:
 
-![image](https://raw.githubusercontent.com/GdeGuz25/tg_credit_cards/refs/heads/main/2025-07-07_16-08-19.png)
+![image](https://raw.githubusercontent.com/GdeGuz25/tg_credit_cards/refs/heads/main/tg_credit_cards-main/test_card.png)
 
 
 ## 💻 Технологии
